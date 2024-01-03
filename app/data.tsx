@@ -87,13 +87,6 @@ export const exams = [
                 answer: [3],
                 score: 1,
                 options: ['Aj. Preecha', 'Aj. Snit', 'Aj, Petre', 'Aj. Peter', 'Aj. Petch']
-            },
-            {
-                type: 4,
-                question: 'What is this subject outcomes?',
-                answer: [0, 1, 4],
-                score: 1,
-                options: ['to know things', 'to learn things', 'to have fun', 'to be a normal human', 'to hide your hidden inventory']
             }
         ]
     },
@@ -124,13 +117,6 @@ export const exams = [
                 answer: [3],
                 score: 1,
                 options: ['wo', 'woher', 'wie', 'who']
-            },
-            {
-                type: 4,
-                question: 'It`s me your Aj. Who am I?',
-                answer: [0, 1, 4],
-                score: 1,
-                options: ['Aj. Tata', 'Aj. Snot', 'Aj. Taylor', 'Koro sensei', 'Aj. Gojo']
             },
             {
                 type: 2,
