@@ -1,5 +1,5 @@
 import React from 'react';
-import { exams } from '../../../../data';
+import { exams } from '../data';
 import { useRouter } from 'next/router';
 import {
   Button,
