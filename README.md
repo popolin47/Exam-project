@@ -1,6 +1,6 @@
 https://exam-project-flax.vercel.app
 ^^^^^^
-Try it's out
+Try it out
 
 
 
